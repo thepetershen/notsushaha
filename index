@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="description" content="this is an awesome website">
+    <title>Peter's Website</title>
+    <title>Title of the document</title>
+    <style>
+      .button {
+        display: inline-block;
+        padding: 25% 21%;
+        text-align: center;
+        text-decoration: none;
+        color: #ffffff00;
+        background-color: #ffffff00;
+        border-radius: 0px;
+        outline: none;
+      }
+    </style>
+  </head>
+  <body style = "background-color:lightblue">
+
+
+    <style>
+      body {
+        background-image: url('background.png');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100% 100%;
+      }
+    </style>
+    <a class="button" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">HTML button tag</a>
+    <a class="button" href="https://www.youtube.com/user/technothepig">HTML button tag</a>
+
+
+
+
+  </body>
+</html>
